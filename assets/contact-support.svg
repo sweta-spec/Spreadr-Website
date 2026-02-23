@@ -1,0 +1,9 @@
+<svg width="520" height="320" viewBox="0 0 520 320" xmlns="http://www.w3.org/2000/svg" fill="none">
+<rect width="520" height="320" rx="22" fill="#EEF9FF"/>
+<rect x="66" y="62" width="388" height="198" rx="18" fill="white" stroke="#C5E8F9"/>
+<circle cx="158" cy="140" r="34" fill="#DFF5FF"/>
+<circle cx="260" cy="140" r="34" fill="#DFF5FF"/>
+<circle cx="362" cy="140" r="34" fill="#DFF5FF"/>
+<rect x="124" y="194" width="272" height="38" rx="19" fill="#00AEEF"/>
+<text x="260" y="218" text-anchor="middle" fill="white" font-size="13" font-family="Arial">Talk to Spreadr Support</text>
+</svg>

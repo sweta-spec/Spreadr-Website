@@ -1,0 +1,22 @@
+<svg width="640" height="430" viewBox="0 0 640 430" xmlns="http://www.w3.org/2000/svg" fill="none">
+<rect width="640" height="430" rx="28" fill="#ECF9FF"/>
+<rect x="38" y="40" width="564" height="350" rx="18" fill="white" stroke="#BFE7F8" stroke-width="2"/>
+<rect x="38" y="40" width="564" height="52" rx="18" fill="#F4FBFF"/>
+<rect x="64" y="57" width="11" height="11" rx="5.5" fill="#00AEEF"/>
+<rect x="82" y="57" width="98" height="11" rx="5" fill="#0D2746" opacity="0.35"/>
+<rect x="66" y="118" width="158" height="84" rx="12" fill="#F6FCFF" stroke="#D2EEF9"/>
+<rect x="242" y="118" width="158" height="84" rx="12" fill="#F6FCFF" stroke="#D2EEF9"/>
+<rect x="418" y="118" width="158" height="84" rx="12" fill="#F6FCFF" stroke="#D2EEF9"/>
+<rect x="66" y="134" width="72" height="9" rx="4.5" fill="#00AEEF" opacity="0.38"/>
+<rect x="66" y="152" width="52" height="9" rx="4.5" fill="#0D2746" opacity="0.22"/>
+<rect x="242" y="134" width="72" height="9" rx="4.5" fill="#00AEEF" opacity="0.38"/>
+<rect x="242" y="152" width="52" height="9" rx="4.5" fill="#0D2746" opacity="0.22"/>
+<rect x="418" y="134" width="72" height="9" rx="4.5" fill="#00AEEF" opacity="0.38"/>
+<rect x="418" y="152" width="52" height="9" rx="4.5" fill="#0D2746" opacity="0.22"/>
+<rect x="66" y="224" width="510" height="136" rx="14" fill="#FAFDFF" stroke="#D2EEF9"/>
+<rect x="86" y="250" width="348" height="34" rx="10" fill="white" stroke="#BFE7F8"/>
+<rect x="448" y="250" width="108" height="34" rx="17" fill="#00AEEF"/>
+<text x="502" y="272" text-anchor="middle" fill="white" font-size="13" font-family="Arial">Import Product</text>
+<rect x="86" y="302" width="470" height="12" rx="6" fill="#00AEEF" opacity="0.18"/>
+<rect x="86" y="324" width="340" height="12" rx="6" fill="#0D2746" opacity="0.13"/>
+</svg>
